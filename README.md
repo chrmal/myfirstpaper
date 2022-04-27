@@ -14,6 +14,8 @@ We are working on the repository.
 ## Results
 
 ## Discussion
+The Github changes work fine.
+
 
 ## Conclusion
 - Git
