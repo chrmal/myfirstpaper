@@ -12,7 +12,7 @@ We are working on the repository.
 - Anaconda
 
 ## Results
-
+The results are obvious, the communication works fine.
 ## Discussion
 The Github changes work fine.
 
