@@ -13,9 +13,9 @@ We are working on the repository.
 
 ## Results
 The results are obvious, the communication works fine.
+
 ## Discussion
 The Github changes work fine.
-
 
 ## Conclusion
 - Git
@@ -23,4 +23,6 @@ The Github changes work fine.
 - Python
 
 ## Literature
-BLABLUBB et al., 2022
+BlABLUBB et al., 2022
+blablubb et al., 2022
+
